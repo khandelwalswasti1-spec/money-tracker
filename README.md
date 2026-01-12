@@ -70,4 +70,4 @@ Run your life like a pro with this full-featured **Expense Tracker**, built on t
 
 ---
 
-Made with ❤️ by [Tanuj](https://github.com/x03tanuj)
+Made with ❤️ by [Swasti](https://github.com/x03tanuj)
